@@ -1,0 +1,6 @@
+name: KLib
+main: com.millennium.library.KLib
+version: 1.0-SNAPHSOT
+author: misuda12
+description: Bungeecord plugin used for reducing sizes of Kotlin plugins
+url: https://github.com/misuda12/KLib
